@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdedieu
 - 👀 I’m interested in frontend, web & mobile development
-- 🌱 I’m currently learning Flutter & React
+- 🌱 I’m currently learning Qwik & React
 - 💞️ My domains of expertise are Angular, Vue & Flutter
 - 📫 How to reach me : dedieu.sylvain38@gmail.com
 
